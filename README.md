@@ -21,7 +21,6 @@ Technologies Used
 - Accuracy
 - Precision
 - Recall
-- F1-Score
 - Confusion Matrix
 
  Dataset
